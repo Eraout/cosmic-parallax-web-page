@@ -1,7 +1,7 @@
 # **Cosmic Journey Website**
 
 Welcome to the **Cosmic Journey** website project. This project offers an immersive experience that whisks users away on a cosmic journey. The centerpiece is a series of layered animations illustrating various cosmic elements, further enhanced by a parallax effect that responds to mouse movements.
-### **[Preview](https://cosmos-cover.netlify.app/)**
+### <a href="https://cover-cosmos.netlify.app" target="_blank">Preview</a>
 ## 🌟 **Features**
 
 - 🖱️ Dynamic parallax effect responsive to mouse movement.
